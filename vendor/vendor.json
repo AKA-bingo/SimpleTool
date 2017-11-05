@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "dFdI17MrV3/B+QxELitTWuxTkS4=",
+			"path": "github.com/tealeg/xlsx",
+			"revision": "92caefe99f99872a8fb943097ed2bd47491d0b86",
+			"revisionTime": "2017-10-30T17:37:35Z"
+		}
+	],
+	"rootPath": "dataformat"
+}
